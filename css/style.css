@@ -1,3 +1,7 @@
 h1{
     background-color:red;
 }
+
+.image-content > img {
+    max-width: 200px;
+}
